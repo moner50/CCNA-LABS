@@ -122,10 +122,10 @@ This project is licensed under the [MIT License](LICENSE) — feel free to use a
 
 ## 👤 Author
 
-**[Your Name]**
+**Moner Tantawy**
 - 🎓 CCNA Student
-- 💼 [LinkedIn](https://linkedin.com/in/your-profile)
-- 🐙 [GitHub](https://github.com/your-username)
+- 💼 [LinkedIn](www.linkedin.com/in/moneir-tantawy-16852b378)
+- 🐙 [GitHub](https://github.com/moner50)
 
 ---
 
