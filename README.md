@@ -29,7 +29,7 @@ Whether you're studying for the CCNA exam or just want to sharpen your networkin
 | 02 | VLANs & Inter-VLAN Routing | Packet Tracer | ✅ Done |
 | 03 | Spanning Tree Protocol (STP) | Packet Tracer | 🔄 In Progress |
 | 04 | Static & Dynamic Routing | GNS3 | 🔄 In Progress |
-| 05 | OSPF (Single & Multi-Area) | GNS3 | ⏳ Coming Soon |
+| 05 | OSPF (Single-Area OSPFv2) | Packet Tracer | ✅ Done |
 | 06 | EIGRP | GNS3 | ⏳ Coming Soon |
 | 07 | Access Control Lists (ACLs) | Packet Tracer | ⏳ Coming Soon |
 | 08 | NAT & PAT | Packet Tracer | ⏳ Coming Soon |
@@ -37,6 +37,19 @@ Whether you're studying for the CCNA exam or just want to sharpen your networkin
 | 10 | WAN Technologies | GNS3 | ⏳ Coming Soon |
 
 > 📌 This list grows as I progress through my studies!
+
+---
+
+## 🔍 OSPF Labs — Section 05 (Completed)
+
+| Lab | Title | Status |
+|-----|-------|--------|
+| 2.2.13 | Point-to-Point Single Area OSPFv2 Configuration | ✅ Done |
+| 2.3.11 | Determine the DR and BDR | ✅ Done |
+| — | Modify OSPF Default Settings (Timers & Bandwidth) | ✅ Done |
+| — | Propagate a Default Route in OSPFv2 | ✅ Done |
+| — | Verify Single-Area OSPFv2 | ✅ Done |
+| — | Final OSPF Lab — Comprehensive OSPFv2 Configuration 🏆 | ✅ Done |
 
 ---
 
@@ -69,6 +82,34 @@ CCNA-LABS/
 │   ├── lab-guide.md
 │   └── README.md
 │
+├── 05-OSPF/
+│   ├── README.md
+│   ├── 2.2.13-Point-to-Point-Single-Area-OSPFv2/
+│   │   ├── topology.png
+│   │   ├── lab.pkt
+│   │   └── README.md
+│   ├── 2.3.11-Determine-DR-and-BDR/
+│   │   ├── topology.png
+│   │   ├── lab.pkt
+│   │   └── README.md
+│   ├── Modify-OSPF-Default-Settings/
+│   │   ├── topology.png
+│   │   ├── lab.pkt
+│   │   └── README.md
+│   ├── Propagate-Default-Route-OSPFv2/
+│   │   ├── topology.png
+│   │   ├── lab.pkt
+│   │   └── README.md
+│   ├── Verify-Single-Area-OSPFv2/
+│   │   ├── topology.png
+│   │   ├── lab.pkt
+│   │   └── README.md
+│   └── Final-OSPF-Lab-Comprehensive/
+│       ├── topology.png
+│       ├── score.png
+│       ├── lab.pkt
+│       └── README.md
+│
 └── ...
 ```
 
@@ -78,17 +119,17 @@ CCNA-LABS/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR-USERNAME/CCNA-LABS.git
+   git clone https://github.com/moner50/CCNA-LABS.git
    ```
 
 2. **Navigate to any lab folder**
    ```bash
-   cd CCNA-LABS/01-Basic-Configuration
+   cd CCNA-LABS/05-OSPF/2.2.13-Point-to-Point-Single-Area-OSPFv2
    ```
 
-3. **Read the `lab-guide.md`** for objectives and instructions
+3. **Read the `README.md`** for objectives, configurations, and explanations
 
-4. **Open the topology file** in Packet Tracer or GNS3
+4. **Open the `.pkt` file** in Cisco Packet Tracer
 
 5. **Apply the configs** and verify using the provided commands
 
@@ -124,7 +165,7 @@ This project is licensed under the [MIT License](LICENSE) — feel free to use a
 
 **Moner Tantawy**
 - 🎓 CCNA Student
-- 💼 [LinkedIn](www.linkedin.com/in/moneir-tantawy-16852b378)
+- 💼 [LinkedIn](https://www.linkedin.com/in/moneir-tantawy-16852b378)
 - 🐙 [GitHub](https://github.com/moner50)
 
 ---
