@@ -63,57 +63,7 @@ To open and run these labs you'll need one or more of the following:
 
 ---
 
-## 📁 Repository Structure
 
-```
-CCNA-LABS/
-│
-├── 01-Basic-Configuration/
-│   ├── topology.png
-│   ├── configs/
-│   │   ├── Router1.txt
-│   │   └── Switch1.txt
-│   ├── lab-guide.md
-│   └── README.md
-│
-├── 02-VLANs/
-│   ├── topology.png
-│   ├── configs/
-│   ├── lab-guide.md
-│   └── README.md
-│
-├── 05-OSPF/
-│   ├── README.md
-│   ├── 2.2.13-Point-to-Point-Single-Area-OSPFv2/
-│   │   ├── topology.png
-│   │   ├── lab.pkt
-│   │   └── README.md
-│   ├── 2.3.11-Determine-DR-and-BDR/
-│   │   ├── topology.png
-│   │   ├── lab.pkt
-│   │   └── README.md
-│   ├── Modify-OSPF-Default-Settings/
-│   │   ├── topology.png
-│   │   ├── lab.pkt
-│   │   └── README.md
-│   ├── Propagate-Default-Route-OSPFv2/
-│   │   ├── topology.png
-│   │   ├── lab.pkt
-│   │   └── README.md
-│   ├── Verify-Single-Area-OSPFv2/
-│   │   ├── topology.png
-│   │   ├── lab.pkt
-│   │   └── README.md
-│   └── Final-OSPF-Lab-Comprehensive/
-│       ├── topology.png
-│       ├── score.png
-│       ├── lab.pkt
-│       └── README.md
-│
-└── ...
-```
-
----
 
 ## 🚀 How to Use
 
@@ -153,13 +103,7 @@ This is primarily a personal learning repo, but contributions are welcome!
 - Spotted a mistake? Open an **Issue**
 - Have a lab suggestion? Start a **Discussion**
 
----
 
-## 📜 License
-
-This project is licensed under the [MIT License](LICENSE) — feel free to use and share with attribution.
-
----
 
 ## 👤 Author
 
