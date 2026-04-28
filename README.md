@@ -1,9 +1,6 @@
 # 🌐 CCNA Labs — Hands-On Network Solutions
 
-![Cisco](https://img.shields.io/badge/Cisco-CCNA-blue?style=flat&logo=cisco)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Labs](https://img.shields.io/badge/Labs-Growing-orange)
-![Tools](https://img.shields.io/badge/Tools-Packet%20Tracer%20%7C%20GNS3-lightgrey)
+
 
 > A personal collection of CCNA lab solutions, network topologies, and configuration files — built to bridge the gap between theory and real-world networking skills.
 
@@ -44,6 +41,7 @@ Whether you're studying for the CCNA exam or just want to sharpen your networkin
 | 5.2.7 | Configure and Modify Standard IPv4 ACLs | ✅ Done |
 | 5.4.12 | Configure Extended IPv4 ACLs — Scenario 1 | ✅ Done |
 | 5.4.13 | Configure Extended IPv4 ACLs — Scenario 2 | ✅ Done |
+| 5.5.1 | IPv4 ACL Implementation Challenge 🏆 | ✅ Done |
 | 08 | NAT & PAT | Packet Tracer | ⏳ Coming Soon |
 | 09 | DHCP & DNS | Packet Tracer | ⏳ Coming Soon |
 | 10 | WAN Technologies | GNS3 | ⏳ Coming Soon |
