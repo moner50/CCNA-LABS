@@ -1,6 +1,7 @@
 # 🌐 CCNA Labs — Hands-On Network Solutions
 
 
+
 > A personal collection of CCNA lab solutions, network topologies, and configuration files — built to bridge the gap between theory and real-world networking skills.
 
 ---
@@ -37,6 +38,7 @@ Whether you're studying for the CCNA exam or just want to sharpen your networkin
 |-----|-------|--------|
 | 5.1.8 | Configure Numbered Standard IPv4 ACLs | ✅ Done |
 | 5.1.9 | Configure Named Standard IPv4 ACLs | ✅ Done |
+| 5.2.7 | Configure and Modify Standard IPv4 ACLs | ✅ Done |
 | 08 | NAT & PAT | Packet Tracer | ⏳ Coming Soon |
 | 09 | DHCP & DNS | Packet Tracer | ⏳ Coming Soon |
 | 10 | WAN Technologies | GNS3 | ⏳ Coming Soon |
@@ -68,7 +70,55 @@ To open and run these labs you'll need one or more of the following:
 
 ---
 
+## 📁 Repository Structure
 
+```
+CCNA-LABS/
+│
+├── 01-Basic-Configuration/
+│   ├── topology.png
+│   ├── configs/
+│   │   ├── Router1.txt
+│   │   └── Switch1.txt
+│   ├── lab-guide.md
+│   └── README.md
+│
+├── 02-VLANs/
+│   ├── topology.png
+│   ├── configs/
+│   ├── lab-guide.md
+│   └── README.md
+│
+├── 05-OSPF/
+│   ├── README.md
+│   ├── 2.2.13-Point-to-Point-Single-Area-OSPFv2/
+│   │   ├── topology.png
+│   │   ├── lab.pkt
+│   │   └── README.md
+│   ├── 2.3.11-Determine-DR-and-BDR/
+│   │   ├── topology.png
+│   │   ├── lab.pkt
+│   │   └── README.md
+│   ├── Modify-OSPF-Default-Settings/
+│   │   ├── topology.png
+│   │   ├── lab.pkt
+│   │   └── README.md
+│   ├── Propagate-Default-Route-OSPFv2/
+│   │   ├── topology.png
+│   │   ├── lab.pkt
+│   │   └── README.md
+│   ├── Verify-Single-Area-OSPFv2/
+│   │   ├── topology.png
+│   │   ├── lab.pkt
+│   │   └── README.md
+│   └── Final-OSPF-Lab-Comprehensive/
+│       ├── topology.png
+│       ├── score.png
+│       ├── lab.pkt
+│       └── README.md
+│
+└── ...
+```
 
 ---
 
