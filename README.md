@@ -1,9 +1,5 @@
 # 🌐 CCNA Labs — Hands-On Network Solutions
 
-![Cisco](https://img.shields.io/badge/Cisco-CCNA-blue?style=flat&logo=cisco)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Labs](https://img.shields.io/badge/Labs-Growing-orange)
-![Tools](https://img.shields.io/badge/Tools-Packet%20Tracer%20%7C%20GNS3-lightgrey)
 
 > A personal collection of CCNA lab solutions, network topologies, and configuration files — built to bridge the gap between theory and real-world networking skills.
 
@@ -31,7 +27,16 @@ Whether you're studying for the CCNA exam or just want to sharpen your networkin
 | 04 | Static & Dynamic Routing | GNS3 | 🔄 In Progress |
 | 05 | OSPF (Single-Area OSPFv2) | Packet Tracer | ✅ Done |
 | 06 | EIGRP | GNS3 | ⏳ Coming Soon |
-| 07 | Access Control Lists (ACLs) | Packet Tracer | ⏳ Coming Soon |
+| 07 | Access Control Lists (ACLs) | Packet Tracer | 🔄 In Progress |
+
+---
+
+## 🛡️ ACL Labs — Section 07 (In Progress)
+
+| Lab | Title | Status |
+|-----|-------|--------|
+| 5.1.8 | Configure Numbered Standard IPv4 ACLs | ✅ Done |
+| 5.1.9 | Configure Named Standard IPv4 ACLs | ✅ Done |
 | 08 | NAT & PAT | Packet Tracer | ⏳ Coming Soon |
 | 09 | DHCP & DNS | Packet Tracer | ⏳ Coming Soon |
 | 10 | WAN Technologies | GNS3 | ⏳ Coming Soon |
@@ -64,6 +69,8 @@ To open and run these labs you'll need one or more of the following:
 ---
 
 
+
+---
 
 ## 🚀 How to Use
 
@@ -103,7 +110,13 @@ This is primarily a personal learning repo, but contributions are welcome!
 - Spotted a mistake? Open an **Issue**
 - Have a lab suggestion? Start a **Discussion**
 
+---
 
+## 📜 License
+
+This project is licensed under the [MIT License](LICENSE) — feel free to use and share with attribution.
+
+---
 
 ## 👤 Author
 
