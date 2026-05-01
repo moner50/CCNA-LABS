@@ -1,11 +1,6 @@
 # 🌐 CCNA Labs — Hands-On Network Solutions
 
 
-
-> A personal collection of CCNA lab solutions, network topologies, and configuration files — built to bridge the gap between theory and real-world networking skills.
-
----
-
 ## 📖 About This Repository
 
 This repository documents my hands-on journey through CCNA topics. Each lab includes:
@@ -42,6 +37,7 @@ Whether you're studying for the CCNA exam or just want to sharpen your networkin
 | 5.4.12 | Configure Extended IPv4 ACLs — Scenario 1 | ✅ Done |
 | 5.4.13 | Configure Extended IPv4 ACLs — Scenario 2 | ✅ Done |
 | 5.5.1 | IPv4 ACL Implementation Challenge 🏆 | ✅ Done |
+| — | Configure and Verify Extended IPv4 ACLs — Physical Mode 🏅 97% | ✅ Done |
 | 08 | NAT & PAT | Packet Tracer | ⏳ Coming Soon |
 | 09 | DHCP & DNS | Packet Tracer | ⏳ Coming Soon |
 | 10 | WAN Technologies | GNS3 | ⏳ Coming Soon |
