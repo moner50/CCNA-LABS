@@ -1,6 +1,8 @@
 # 🌐 CCNA Labs — Hands-On Network Solutions
 
 
+---
+
 ## 📖 About This Repository
 
 This repository documents my hands-on journey through CCNA topics. Each lab includes:
@@ -38,7 +40,19 @@ Whether you're studying for the CCNA exam or just want to sharpen your networkin
 | 5.4.13 | Configure Extended IPv4 ACLs — Scenario 2 | ✅ Done |
 | 5.5.1 | IPv4 ACL Implementation Challenge 🏆 | ✅ Done |
 | — | Configure and Verify Extended IPv4 ACLs — Physical Mode 🏅 97% | ✅ Done |
-| 08 | NAT & PAT | Packet Tracer | ⏳ Coming Soon |
+| 08 | NAT & PAT | Packet Tracer | 🔄 In Progress |
+
+---
+
+## 🌐 NAT Labs — Section 08 (In Progress)
+
+| Lab | Title | Status |
+|-----|-------|--------|
+| 6.4.5 | Configure Static NAT | ✅ Done |
+| 6.5.6 | Configure Dynamic NAT | ✅ Done |
+| 6.6.7 | Configure PAT (Overload) | ✅ Done |
+| 6.8.1 | Configure NAT for IPv4 — PAT + Static Combined 🏆 | ✅ Done |
+| — | Configure NAT for IPv4 — Full Lab (Dynamic + PAT + Static) | ✅ Done |
 | 09 | DHCP & DNS | Packet Tracer | ⏳ Coming Soon |
 | 10 | WAN Technologies | GNS3 | ⏳ Coming Soon |
 
